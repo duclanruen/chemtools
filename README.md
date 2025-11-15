@@ -5,9 +5,9 @@
 **modules : Python modules chemtools** 
 * chimieArtois.py
 
-**notebooks**
+**notebooks**<br>
 *analysis
-        * ANA-001-Regression : Mutliple regression analysis from set of (x,y) data<br>
+        * ANA-001-Regression : Mutliple regression analysis from set of (x,y) data
         * ANA-100-DOE : Exemple of full factioral design of experiments
 * chemical
         * CHEM101-Python-Pompes : Head loss calculation in a channel
