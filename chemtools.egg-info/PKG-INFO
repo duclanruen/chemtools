@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: chemtools
+Version: 0.0.1
+Summary: Some useful tools for IUT Students in chemistry
+Home-page: https://github.com/duclanruen/chemtools
+Author: Olivier Carpentier
+Author-email: duclanruen@gmail.com
+License: MIT
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: matplotlib
+Requires-Dist: pandas
