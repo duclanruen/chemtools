@@ -6,7 +6,7 @@
 * chimieArtois.py
 
 **notebooks**<br>
-*analysis
+* analysis
         * ANA-001-Regression : Mutliple regression analysis from set of (x,y) data
         * ANA-100-DOE : Exemple of full factioral design of experiments
 * chemical
